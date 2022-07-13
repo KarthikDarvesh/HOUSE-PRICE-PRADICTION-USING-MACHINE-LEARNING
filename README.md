@@ -25,7 +25,6 @@ After completing preprocessing and modeling, Here we design (GUI) model base on 
 
 ![1](https://user-images.githubusercontent.com/74731969/178756252-573a44ae-24bb-486d-9388-a596de8f4722.jpg)
 ![2](https://user-images.githubusercontent.com/74731969/178756316-9e872802-6a45-47ee-b223-da09886ba68f.jpg)
-![3](https://user-images.githubusercontent.com/74731969/178756332-5f7adb99-fc38-4f13-82d6-d43f615cf6e5.jpg)
 ![4](https://user-images.githubusercontent.com/74731969/178756339-2a6bedf3-dc63-420c-8c4b-9bfd44dc145c.jpg)
 ![5](https://user-images.githubusercontent.com/74731969/178756345-b2eb7047-8f38-4a2a-8f3e-492c8929b10d.jpg)
 ![6](https://user-images.githubusercontent.com/74731969/178756351-43b50fb6-4e10-430d-a896-60974bfcfd65.jpg)
