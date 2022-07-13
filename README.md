@@ -1,5 +1,6 @@
 # HOUSE-PRICE-PRADICTION-USING-MACHINE-LEARNING
 Our goal for this project is to build an end to end solution or application that is capable of predicting the house prices better than individuals.
+In this project we compare different machine learning methods performance in predicting the house price of houses based on a number of features such as the area, the number of bhk and availability and the geographical position.
 
 1.	Data Collection
 The statistics were gathered house prices. The information includes many variables such as area type, availability, location, BHK, society, total square feet, bathrooms, and balconies.
