@@ -24,8 +24,7 @@ After completing preprocessing and modeling, __Here design (GUI) model base on w
 
 ![1](https://user-images.githubusercontent.com/74731969/178756252-573a44ae-24bb-486d-9388-a596de8f4722.jpg)
 ![2](https://user-images.githubusercontent.com/74731969/178756316-9e872802-6a45-47ee-b223-da09886ba68f.jpg)
-![4](https://user-images.githubusercontent.com/74731969/178756339-2a6bedf3-dc63-420c-8c4b-9bfd44dc145c.jpg)
+![Picture1](https://github.com/KarthikDarvesh/HOUSE-PRICE-PRADICTION-USING-MACHINE-LEARNING/assets/74731969/4fcc3af9-19bf-4d9d-b148-2f6ca4f89b58)
+![Picture2](https://github.com/KarthikDarvesh/HOUSE-PRICE-PRADICTION-USING-MACHINE-LEARNING/assets/74731969/34e4d6ca-60a9-4b1d-b6af-98261c53323e)
+![Picture3](https://github.com/KarthikDarvesh/HOUSE-PRICE-PRADICTION-USING-MACHINE-LEARNING/assets/74731969/b8f15b6f-8c8a-4f2c-914e-1a36d1b84661)
 ![5](https://user-images.githubusercontent.com/74731969/178756345-b2eb7047-8f38-4a2a-8f3e-492c8929b10d.jpg)
-![9](https://user-images.githubusercontent.com/74731969/178756368-4ce1538e-ee5a-44e0-a0e3-3841145ba6a9.jpg)
-
-
