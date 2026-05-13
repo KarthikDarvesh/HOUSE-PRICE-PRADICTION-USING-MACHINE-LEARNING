@@ -1,9 +1,9 @@
 # HOUSE-PRICE-PRADICTION-USING-MACHINE-LEARNING
 Goal for this project is to build an end to end solution or application that is capable of predicting the house prices better than individuals.
-In this project we compare different machine learning methods performance in __predicting the house price of houses based on a number of features such as the area, the number of bhk and availability and the geographical position.__
+In this project we compare different machine learning methods performance in __predicting the house price of houses based on a number of features such as the area, the number of bhk and availability and the geographical position.
 
 1.	Data Collection<br>
-__Here data collected from kaggle__, the statistics were gathered house prices, the information includes many variables such as area type, availability, location, BHK, society, total square feet, bathrooms, and balconies.
+Here data collected from kaggle, the statistics were gathered house prices, the information includes many variables such as area type, availability, location, BHK, society, total square feet, bathrooms, and balconies.
 
 2.	Regression Trees<br>
 It supports both continuous and categorical input variables. Regression trees are regarded as research with
