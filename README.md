@@ -5,11 +5,11 @@ In this project we compare different machine learning methods performance in __p
 1.	Data Collection<br>
 __Here data collected from kaggle__, the statistics were gathered house prices, the information includes many variables such as area type, availability, location, BHK, society, total square feet, bathrooms, and balconies.
 
-2	Regression Trees<br>
+2.	Regression Trees<br>
 It supports both continuous and categorical input variables. Regression trees are regarded as research with
 various machine algorithms for the regression issue, with the Decision Tree approach providing the lowest loss. __In this project the R-Squared value for the Random-Forest Regression is 0.998, indicating that it is an excellent model.__ The Decision Tree was used to complete the web development.
 
-3	Flask<br>
+3.	Flask<br>
 After completing preprocessing and modeling, __Here design (GUI) model base on web app to predict price using Flask Programming__
 
 ![1](https://user-images.githubusercontent.com/74731969/178756252-573a44ae-24bb-486d-9388-a596de8f4722.jpg)
